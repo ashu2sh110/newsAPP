@@ -1,7 +1,7 @@
 # News App 
 ## 📸 Screenshots
 
-| <img src="https://storage.googleapis.com/generativeai-downloads/images/user_provided/8908a8a25c1387d85cf55d045d6cd4f9.jpeg" alt="Headlines Screen" width="250"/> | <img src="https://storage.googleapis.com/generativeai-downloads/images/user_provided/46654b41b590e82c5fa221469e7116b4.jpeg" alt="Favourites Screen" width="250"/> | <img src="https://storage.googleapis.com/generativeai-downloads/images/user_provided/fc4e304f56f14068367d307730e7195d.jpeg" alt="Article Detail Screen" width="250"/> |
+| <img src="WhatsApp Image 2025-12-05 at 19.08.12_43b59610.jpg" alt="Headlines Screen" width="200"/> | <img src="WhatsApp Image 2025-12-05 at 19.08.12_ab57f74f.jpg" alt="Favourites Screen" width="200"/> | <img src="WhatsApp Image 2025-12-05 at 19.08.13_5a42982e.jpg" alt="Article Detail Screen" width="200"/> |<img src="WhatsApp Image 2025-12-05 at 19.08.13_f383d80b.jpg" alt="Headlines Screen" width="200"/>
 
 ## ✨ Features
 
