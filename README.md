@@ -1,4 +1,4 @@
-# News App 
+# FlashBrief 
 ## 📸 Screenshots
 
 | <img src="WhatsApp Image 2025-12-05 at 19.08.12_43b59610.jpg" alt="Headlines Screen" width="200"/> | <img src="WhatsApp Image 2025-12-05 at 19.08.12_ab57f74f.jpg" alt="Favourites Screen" width="200"/> | <img src="WhatsApp Image 2025-12-05 at 19.08.13_5a42982e.jpg" alt="Article Detail Screen" width="200"/> |<img src="WhatsApp Image 2025-12-05 at 19.08.13_f383d80b.jpg" alt="Headlines Screen" width="200"/>
